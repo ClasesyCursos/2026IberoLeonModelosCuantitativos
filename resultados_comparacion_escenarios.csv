@@ -1,0 +1,5 @@
+Escenario,Madera,Trabajo,Mesas,Sillas,Ganancia
+Base,100,60,10.0,30.0,1700.0
+Más madera,120,60,-0.0,60.0,1800.0
+Más trabajo,100,70,20.0,10.0,1900.0
+Más madera y trabajo,120,70,10.0,40.0,2000.0
